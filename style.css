@@ -4,7 +4,7 @@ body {
 }
 
 
-/* tags */
+
 a {
     text-decoration: none;
     color: inherit;
@@ -12,7 +12,6 @@ a {
 }
 
 
-/* classes */
 
 /* Header */
 /* Navigation Bar */
@@ -86,7 +85,7 @@ a {
 .section_rod {
     border: 0px solid white;
     width: 5px;
-    height: 1400px;
+    height: 1320px;
     background-color: #4b7dbb;
     text-align: center;
     border-top-style: ridge;
@@ -207,7 +206,7 @@ margin-top:0px;
     border: 0.1px solid rgb(48 129 205);
     position: absolute;
     top: 1491px;
-    left: 74px;
+    left: 66px;
     background-color: #8cc1f3;
 }
 
@@ -295,6 +294,183 @@ margin-top:0px;
    
 }
 
+/* MY EDUCATION */
+/* first university */
+.my_education {
+    text-align: center;
+   
+
+}
+.first_university_container {
+    margin:auto;
+    width:800px;
+    height:635px;
+    border: 1px solid rgb(16, 33, 216);
+    padding:5px 36px 5px;
+    text-align: justify;
+    background-color: #ccdc213b;
+}
+.first_university {
+    text-align: center;
+    margin-bottom:2px;
+}
+.location_first_university {
+    text-align: center;
+    margin-top:0px;
+    margin-bottom: 2px;
+}
+.CGPA {
+    text-align: center;
+    margin-top: 0px;
+    font-weight: bold;
+}
+.involvements {
+    margin-bottom: -5px;
+}
+.projects {
+    margin-bottom:-5px;
+}
+.scholarships {
+    margin-bottom:-5px;
+}
+
+.first_university_list {
+    font-size: 18px;
+}
+
+/* Second University */
+
+
+
+
+
+
+/* Skills */
+
+.my_skills {
+    text-align: center;
+
+}
+.skills {
+    width: 800px;
+    height:550px;
+    margin:auto;
+    padding:30px 36px 5px;
+    border:1px solid rgb(16, 33, 216);
+    margin-bottom: 20px;
+    background-color: #4b7dbb57;
+}
+.technical_skills_container {
+    width:350px;
+    height:516px;
+    border:2px solid rgba(14, 109, 114, 0.538);
+    display:inline-block;
+    margin-right: 89px; 
+    text-align: center;
+    background-color: #50dfdb3d;
+    
+   
+    
+}
+.non_technical_skills_container {
+    text-align: center;
+    width:350px;
+    height:516px;
+    border:2px solid rgba(14, 109, 114, 0.538);
+    display:inline-block;
+    position:absolute;
+    background-color: #a0f1302b;
+   
+}
+.technical_skills_heading {
+    font-size: 22px;
+}
+.non_technical_skills_heading {
+    font-size: 22px;
+}
+.ul_technical_skills {
+text-align: left;
+font-size: 20px;;
+}
+.ul_non_technical_skills {
+text-align: left;
+font-size: 20px;;
+}
+/* Awards and Achievements */
+.awards_heading {
+    text-align: center;
+}
+.award_container {
+    width:800px;
+    height:120px;
+    border:1px solid rgba(14, 109, 114, 0.538);
+    margin: auto;
+    text-align: justify;
+    background-color: #ab8ebfa1;
+    margin-bottom: 128px;
+}
+.award_description {
+margin:10px;
+font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+/* Footer */
+.contact_details_container {
+    height:200px;
+    width: 100%;
+    border: 1px solid blue;
+    background-color: #9278567d;;
+}
+.contact_heading {
+    font-size: 20px;
+    text-align: center;
+}
+.email {
+    text-align: center;
+    font-size: 20px;
+}
+.phone {
+    text-align: center;
+    font-size: 20px;
+}
+.address {
+    text-align: center;
+    font-size: 20px;
+}
+.fa-envelope {
+   
+    position: relative;
+    right:16px;
+}
+.fa-phone-volume {
+    
+    position: relative;
+    right:63px;
+}
+.fa-location-dot {
+    position: relative;
+    right:55px;
+
+}
+.phone strong {
+    position:relative;
+    right:47px;
+}
+.address strong {
+    position:relative;
+    right:33px;
+}
+.email_container {
+    margin-bottom: 28px;
+}
+.phone_container {
+    margin-bottom: 28px;
+}
+.address_container {
+    margin-bottom: 28px;
+}
 
 
 
@@ -317,4 +493,5 @@ margin-top:0px;
 
 
 
-/* ids */
+
+
